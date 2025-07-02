@@ -1,0 +1,1 @@
+# Kebutuhan dependencies (tidak ada khusus)
